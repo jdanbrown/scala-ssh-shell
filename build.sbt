@@ -2,7 +2,7 @@ name := "scala-ssh-shell"
 
 organization := "com.peak6"
 
-version := "0.0.1-SNAPSHOT"
+version := "0.0.0-jdanbrown-0"
 
 scalaVersion := "2.9.2"
 
